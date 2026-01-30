@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sajith%20S&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sajith%20S&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=58&descSize=20" />
 </div>
 
 <h1 align="center">
@@ -12,32 +12,28 @@
 
 <br>
 
+<div align="center"> 
+  <a href="mailto:sajithsjithu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sajith-s-a3b64b2a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://my-portfolio-224e2.web.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://pub.dev/publishers/sajithsjithu@gmail.com/packages" target="_blank">
+     <img src="https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br/>
+
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```dart
-class Developer {
-  String name = "Sajith S";
-  String role = "Flutter Developer";
-  String location = "Kerala, India";
-  String company = "Minute Designs";
-  
-  List<String> languages = [
-    "Dart", "Kotlin", "Java", "C++", "JavaScript"
-  ];
-  
-  List<String> expertise = [
-    "Flutter", "Firebase", "State Management",
-    "RESTful APIs", "Payment Integration"
-  ];
-  
-  String currentFocus = "Advanced Flutter Animations";
-  String funFact = "I turn coffee into code! ☕";
-}
-```
-
-<br>
+**Flutter Developer** with 1.5+ years of experience in building high-quality mobile applications. Passionate about creating efficient, scalable solutions and contributing to open source.
 
 - 🔭 Currently working at **Minute Designs** as Flutter Developer
 - 🌱 Learning **Advanced Flutter Animations** & **Microservices**
@@ -45,66 +41,76 @@ class Developer {
 - 📦 Created **real_ist_time** package on pub.dev
 - 💡 Passionate about **clean code** and **best practices**
 - 🎯 Goal: Contribute more to **Open Source Projects**
+- ⚡ Fun fact: **I build apps that make life easier!**
 
+<br clear="right"/>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajiths07/sajiths07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajiths07/sajiths07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajiths07/sajiths07/output/github-contribution-grid-snake.svg">
-  </picture>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sajiths07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sajiths07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajiths07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br>
+<br/><br/>
 
-## 🛠️ Tech Stack
+<hr/>
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sajiths07/sajiths07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,cpp,c,arduino,figma,postman,linux" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">💼 Professional Experience</h2>
 
 <div align="center">
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🚀 Flutter Developer @ Minute Designs
+**📍 Kerala, Kochi | 🗓️ September 2024 - Present**
 
 </div>
 
-<br>
+<br/>
 
-## 💼 Professional Experience
+<div align="left">
 
-### Flutter Developer @ Minute Designs
-**Kerala, Kochi | September 2024 - Present**
+- ✨ Built complex UI designs and animations using advanced Flutter techniques
+- 🗺️ Integrated OpenStreetMap API and Firebase Cloud Messaging for real-time features
+- 💳 Implemented Razorpay payment gateway for secure transactions
+- 📊 Applied state management patterns to reduce code complexity by 30%
+- 📱 Deployed 4+ applications on Google Play Console and App Store
+- 📦 Developed and published **real_ist_time** package on pub.dev
 
-```typescript
-const achievements = {
-  uiDesigns: "Built complex UI with advanced Flutter techniques",
-  integrations: ["OpenStreetMap API", "Firebase Cloud Messaging", "Razorpay"],
-  optimization: "Reduced code complexity by 30% with state management",
-  deployment: "4+ apps on Play Store & App Store",
-  openSource: "Published real_ist_time package on pub.dev"
-};
-```
+**🛠️ Skills:** Dart • Flutter • Firebase • Java • Kotlin • State Management • RESTful APIs • Payment Gateways
 
-<br>
+</div>
 
-## 📱 Featured Projects
+<br/>
+<hr/>
+
+<h2 align="center">📱 Featured Projects</h2>
+
+<br/>
 
 <div align="center">
 
@@ -112,40 +118,64 @@ const achievements = {
 
 <table>
 <tr>
-<td width="33%" align="center">
-<h4>📊 Icones CRM</h4>
+<td width="50%">
+<h3 align="center">📊 Icones CRM</h3>
+<div align="center">  
 <p>Field tracking app for sales engineers with real-time location monitoring, travel distance calculation, and automated allowance reports</p>
+<br>
 <p>
-<a href="https://play.google.com/store/apps/details?id=in.minutedesigns.icones_crm">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+<a href="https://play.google.com/store/apps/details?id=in.minutedesigns.icones_crm" target="_blank">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 </p>
+</div>
 </td>
 
-<td width="33%" align="center">
-<h4>🎓 EduMinute</h4>
+<td width="50%">
+<h3 align="center">🎓 EduMinute</h3>
+<div align="center">  
 <p>Institutional management app with attendance tracking, exam scheduling, result publishing, fee payments, and integrated chat</p>
+<br>
 <p>
-<a href="https://play.google.com/store/apps/details?id=in.minutedesigns.eduminute">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+<a href="https://play.google.com/store/apps/details?id=in.minutedesigns.eduminute" target="_blank">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
-<a href="https://apps.apple.com/in/app/edu-minute/id6747077434">
-<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+<a href="https://apps.apple.com/in/app/edu-minute/id6747077434" target="_blank">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 </p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🏪 Rich Stones and More</h3>
+<div align="center">  
+<p>E-commerce app for interior decoration materials with product catalog, cart management, and seamless checkout</p>
+<br>
+<p>
+<a href="https://play.google.com/store/apps/details?id=in.minutedesigns.richstonesandmore" target="_blank">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<a href="https://apps.apple.com/in/app/richstonesandmore/id6749637048" target="_blank">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+</p>
+</div>
 </td>
 
-<td width="33%" align="center">
-<h4>🏪 Rich Stones and More</h4>
-<p>E-commerce app for interior decoration materials with product catalog, cart management, and seamless checkout</p>
+<td width="50%">
+<h3 align="center">📦 real_ist_time</h3>
+<div align="center">  
+<p>Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback</p>
+<br>
 <p>
-<a href="https://play.google.com/store/apps/details?id=in.minutedesigns.richstonesandmore">
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-<a href="https://apps.apple.com/in/app/richstonesandmore/id6749637048">
-<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+<a href="https://pub.dev/packages/real_ist_time" target="_blank">
+<img src="https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white"/>
 </a>
 </p>
+</div>
 </td>
 </tr>
 </table>
@@ -154,24 +184,40 @@ const achievements = {
 
 <table>
 <tr>
-<td width="100%" align="center">
-<h4>🤖 AI Desktop Controller Application</h4>
+<td width="100%">
+<h3 align="center">🤖 AI Desktop Controller Application</h3>
+<div align="center">  
 <p><strong>Ongoing Project</strong></p>
 <p>Desktop application for complete system control through chat and voice commands with confirmation prompts. Built with Flutter using Antigravity IDE, Cursor IDE, Node.js backend, Python for AI processing, and Ollama for local model management. Operates entirely offline without network dependency.</p>
-<p><em>Tech Stack: Flutter • Node.js • Python • Ollama • AI/ML</em></p>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+</div>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br>
+<br/>
+<hr/>
 
-## 🌟 Open Source Contributions
+<h2 align="center">🌟 Open Source Package</h2>
 
-### 📦 [real_ist_time Package](https://pub.dev/packages/real_ist_time)
+<br/>
 
-Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback. Used in attendance systems, exam applications, and booking platforms.
+<div align="center">
+
+### 📦 [real_ist_time](https://pub.dev/packages/real_ist_time)
+
+Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback.  
+Used in attendance systems, exam applications, and booking platforms.
+
+<br/>
 
 ```dart
 // Quick usage example
@@ -183,93 +229,80 @@ void main() async {
 }
 ```
 
-**Features:**
+<br/>
+
+**✨ Features:**
 - ✅ Fetches accurate IST from 8 reliable sources
 - ✅ Smart caching mechanism
 - ✅ Automatic fallback on failure
 - ✅ Used in production apps
 
-<br>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sajiths07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajiths07&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajiths07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajiths07&theme=radical&utcOffset=5.5" />
-</div>
+<br/>
+<hr/>
 
-<br>
+<h2 align="center">🎓 Education & Certifications</h2>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajiths07&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajiths07&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area_color=667eea&area=true&hide_border=true" width="100%" />
-</div>
-
-<br>
-
-## 🎓 Education & Certifications
-
-**Electronics Engineering** | Technical Education Kerala | CGPA: 6.94 | *April 2023*
-
-**Flutter Mobile App Development Certification** | Avodha | *December 2023*
-
-<br>
-
-## 🌐 Connect With Me
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajith-s-a3b64b2a4/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajiths07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-224e2.web.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajithsjithu@gmail.com)
-[![pub.dev](https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/sajithsjithu@gmail.com/packages)
+**🎓 Electronics Engineering** | Technical Education Kerala | CGPA: 6.94 | *April 2023*
+
+**📱 Flutter Mobile App Development Certification** | Avodha | *December 2023*
 
 </div>
 
-<br>
+<br/>
+<hr/>
 
-## 📊 Profile Analytics
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<br/>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sajiths07&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/sajiths07?style=for-the-badge&color=764ba2&labelColor=0D1117)
-![GitHub Stars](https://img.shields.io/github/stars/sajiths07?style=for-the-badge&color=667eea&labelColor=0D1117)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=sajiths07&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-<br>
+<br/>
+<hr/>
 
-## 💭 Dev Quote
+<h2 align="center">📈 Activity Graph</h2>
+
+<br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20implement%20it.&author=David%20Heinemeier%20Hansson" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajiths07&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
-<br>
+<br/>
+<hr/>
 
----
+<h2 align="center">💭 Random Dev Quote</h2>
+
+<br/>
 
 <div align="center">
-  
-### 💙 Thanks for visiting! Feel free to explore my repositories and connect with me!
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-**"Code is poetry written in logic"**
+<br/>
+<hr/>
+
+<div align="center">
+
+### 💙 Show some ❤️ by starring some of my repositories!
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sajiths07&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+**"Code is poetry written in logic"** 💻✨
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 

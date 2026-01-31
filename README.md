@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sajith%20S&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Sajith%20S&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Flutter%20Developer%20|%20Mobile%20App%20Enthusiast&descAlignY=55&descSize=20" />
 </div>
 
 <h1 align="center">
@@ -45,43 +45,58 @@
 
 <br clear="right"/>
 
+<br/>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sajiths07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sajiths07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sajiths07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajiths07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sajiths07/sajiths07/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,androidstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,cpp,c,arduino,figma,postman,linux" />
-</div>
+<h2 align="center">💻 Tech Stack</h2>
 
 <br/>
+
+<div align="center">
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & Database
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+</div>
+
+<br/>
+
 <hr/>
 
 <h2 align="center">💼 Professional Experience</h2>
+
+<br/>
 
 <div align="center">
 
@@ -106,6 +121,7 @@
 </div>
 
 <br/>
+
 <hr/>
 
 <h2 align="center">📱 Featured Projects</h2>
@@ -116,94 +132,125 @@
 
 ### 🏢 Professional Projects
 
-<table>
+</div>
+
+<br/>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">📊 Icones CRM</h3>
-<div align="center">  
-<p>Field tracking app for sales engineers with real-time location monitoring, travel distance calculation, and automated allowance reports</p>
+
+<div align="center">
+
+<p align="center">Field tracking app for sales engineers with real-time location monitoring, travel distance calculation, and automated allowance reports</p>
+
 <br>
-<p>
+
 <a href="https://play.google.com/store/apps/details?id=in.minutedesigns.icones_crm" target="_blank">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
-</p>
+
 </div>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">🎓 EduMinute</h3>
-<div align="center">  
-<p>Institutional management app with attendance tracking, exam scheduling, result publishing, fee payments, and integrated chat</p>
+
+<div align="center">
+
+<p align="center">Institutional management app with attendance tracking, exam scheduling, result publishing, fee payments, and integrated chat</p>
+
 <br>
-<p>
+
 <a href="https://play.google.com/store/apps/details?id=in.minutedesigns.eduminute" target="_blank">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 <a href="https://apps.apple.com/in/app/edu-minute/id6747077434" target="_blank">
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
-</p>
+
 </div>
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">🏪 Rich Stones and More</h3>
-<div align="center">  
-<p>E-commerce app for interior decoration materials with product catalog, cart management, and seamless checkout</p>
+
+<div align="center">
+
+<p align="center">E-commerce app for interior decoration materials with product catalog, cart management, and seamless checkout</p>
+
 <br>
-<p>
+
 <a href="https://play.google.com/store/apps/details?id=in.minutedesigns.richstonesandmore" target="_blank">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
 <a href="https://apps.apple.com/in/app/richstonesandmore/id6749637048" target="_blank">
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
-</p>
+
 </div>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 <h3 align="center">📦 real_ist_time</h3>
-<div align="center">  
-<p>Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback</p>
+
+<div align="center">
+
+<p align="center">Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback</p>
+
 <br>
-<p>
+
 <a href="https://pub.dev/packages/real_ist_time" target="_blank">
 <img src="https://img.shields.io/badge/pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white"/>
 </a>
-</p>
+
 </div>
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
 
 ### 💻 Personal Projects
-
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">🤖 AI Desktop Controller Application</h3>
-<div align="center">  
-<p><strong>Ongoing Project</strong></p>
-<p>Desktop application for complete system control through chat and voice commands with confirmation prompts. Built with Flutter using Antigravity IDE, Cursor IDE, Node.js backend, Python for AI processing, and Ollama for local model management. Operates entirely offline without network dependency.</p>
-<br>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-</div>
-</td>
-</tr>
-</table>
 
 </div>
 
 <br/>
+
+<div align="center">
+
+<h3>🤖 AI Desktop Controller Application</h3>
+
+<p><strong>🚧 Ongoing Project</strong></p>
+
+<p align="center" style="max-width: 800px; margin: 0 auto;">
+Desktop application for complete system control through chat and voice commands with confirmation prompts. Built with Flutter using Antigravity IDE, Cursor IDE, Node.js backend, Python for AI processing, and Ollama for local model management. Operates entirely offline without network dependency.
+</p>
+
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+<br/>
+
 <hr/>
 
 <h2 align="center">🌟 Open Source Package</h2>
@@ -214,8 +261,8 @@
 
 ### 📦 [real_ist_time](https://pub.dev/packages/real_ist_time)
 
-Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback.  
-Used in attendance systems, exam applications, and booking platforms.
+<p>Flutter package for accurate Indian Standard Time from 8 sources with smart caching and automatic fallback.<br/>
+Used in attendance systems, exam applications, and booking platforms.</p>
 
 <br/>
 
@@ -240,32 +287,7 @@ void main() async {
 </div>
 
 <br/>
-<hr/>
 
-<h2 align="center">🎓 Education & Certifications</h2>
-
-<br/>
-
-<div align="center">
-
-**🎓 Electronics Engineering** | Technical Education Kerala | CGPA: 6.94 | *April 2023*
-
-**📱 Flutter Mobile App Development Certification** | Avodha | *December 2023*
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajiths07&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
 <hr/>
 
 <h2 align="center">📈 Activity Graph</h2>
@@ -273,10 +295,11 @@ void main() async {
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajiths07&theme=react-dark&hide_border=true&area=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajiths07&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
 </div>
 
 <br/>
+
 <hr/>
 
 <h2 align="center">💭 Random Dev Quote</h2>
@@ -288,6 +311,7 @@ void main() async {
 </div>
 
 <br/>
+
 <hr/>
 
 <div align="center">

@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=1.5%2B+Years+Experience+in+Flutter+Development;5%2B+Mobile+Apps+Published+on+Play+Store+%26+App+Store;Published+Open+Source+Package+on+pub.dev;Building+Amazing+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=2+%2B+Years+Experience+in+Flutter+Development;5%2B+Mobile+Apps+Published+on+Play+Store+%26+App+Store;Published+Open+Source+Package+on+pub.dev;Building+Amazing+Mobile+Experiences" alt="Typing SVG" />
 </p>
 
 <br>

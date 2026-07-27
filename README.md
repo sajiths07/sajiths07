@@ -33,7 +33,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**Flutter Developer** with 1.5+ years of experience in building high-quality mobile applications. Passionate about creating efficient, scalable solutions and contributing to open source.
+**Flutter Developer** with 2+ years of experience in building high-quality mobile applications. Passionate about creating efficient, scalable solutions and contributing to open source.
 
 - 🔭 Currently working at **Minute Designs** as Flutter Developer
 - 🌱 Learning **Advanced Flutter Animations** & **Microservices**
